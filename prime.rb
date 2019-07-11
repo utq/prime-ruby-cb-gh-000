@@ -1,4 +1,4 @@
-require 'prime'
+require Prime
 
 # Add  code here!
 def prime(number)
