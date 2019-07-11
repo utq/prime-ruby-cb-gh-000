@@ -1,6 +1,6 @@
 
 # Add  code here!
-def prime(number)
+def prime?(number)
   n = 2
   while n < num
     return false if num % n == 0
